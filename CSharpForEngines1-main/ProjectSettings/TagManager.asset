@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovingObstacleWaypoint
+  - Wall
+  - Tilemap
+  - Chest
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  - Health
+  - Heart
+  - Potion
+  - HealthPotion
+  - DeathPotion
+  - SceneChange
+  - Heart1
+  - Heart2
+  - Heart3
+  - Wizard
+  - Zombie
+  - Heart4
+  - Heart5
+  - Explosion
+  - FireTotem
+  - Trophy
+  - StartPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Level
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
